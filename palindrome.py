@@ -1,6 +1,6 @@
 # check if a list contains a palindrome of elements
 
-list = [23, 45, 66, 44, 23]
+list = [23, 45, 66, 45, 23,]
 copy = list.copy()
 copy.reverse()
 
