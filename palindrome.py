@@ -4,7 +4,7 @@ list = [23, 45, 66, 45, 23,]
 copy = list.copy()
 copy.reverse()
 
-if (copy == str):
+if (copy == list):
     print("it is a palindrome")
 else:
     print("not a palindrome")
